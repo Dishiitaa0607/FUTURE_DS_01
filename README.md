@@ -16,3 +16,6 @@ using Power BI.
 - Power BI
 - DAX
 - Data Cleaning & Modeling
+
+🎥 Video Walkthrough
+[Click here to watch dashboard demo]- https://drive.google.com/file/d/1GswvsC4ZJoDeKivMzXGDZVgo7qTv6GXM/view?usp=sharing 
